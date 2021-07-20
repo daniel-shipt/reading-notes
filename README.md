@@ -7,3 +7,4 @@
 1. Always be looking for the next thing.
 2. Always be learing something new.
 3. Constantly focus on how you can improve yourself.
+      -Health and wellness, adapt good habits, find like minded individuals to share and grow with.
