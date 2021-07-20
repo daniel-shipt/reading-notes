@@ -5,6 +5,8 @@
 ## 3 Reminders to keep myself in a Growth Mindset
 
 1. Always be looking for the next thing.
-2. Always be learing something new.
-3. Constantly focus on how you can improve yourself.
-      - Health and wellness, adapt good habits, find like minded individuals to share and grow with.
+2.    - Whether it be a career goal, or just a personal goal.
+3. Always be learing something new.
+      - A skill, trade, improving upon something you've already learned.
+4. Constantly focus on how you can improve yourself.
+      - Health and Wellness, adapt good habits, find like minded individuals to share and grow with.
