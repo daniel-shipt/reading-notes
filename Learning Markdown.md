@@ -6,6 +6,9 @@
 3. ***List item 3***
 
 #We can also do different headers and sizes
+
 ##The more hastags you use
+
 ###The smaller your words will get
+
 ######All the way down to <h6> which is the smallest text!
