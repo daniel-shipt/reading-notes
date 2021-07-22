@@ -5,10 +5,15 @@
 2. *list item 2*
 3. ***List item 3***
 
-# We can also do different headers and sizes
+# You can also do different headers and sizes, this being the largest with H1!
 
-## The more hastags you use
+## This is an H2 tag
 
-### The smaller your words will get
+### This is an H3 tag
 
-###### All the way down to <h6> which is the smallest text!
+#### This is an H4 tag
+
+##### This is an H5 tag
+
+###### And all the way down to the H6 tag, which is the smallest!
+
