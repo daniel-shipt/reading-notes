@@ -1,6 +1,3 @@
-layout: page
-title: "Growth Mindset"
-permalink: https://danielk13.github.io/reading-notes/
 
 # reading-notes
 
