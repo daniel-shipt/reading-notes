@@ -14,3 +14,8 @@
             * **These will return your user name and email verifing your information**
 2. Next step is to use the git clone command to clone your repository to your local directory.
       * That can be done by doing **git clone** *insert https link here*
+3. You'll then want to intialize the clone by using the **git init** command, and then follow that with a **git status** to confirm it's been linked to the local directory.
+4. Lastly you can use the **code .** command to open VS code, and you can verify your directory has been cloned on the left hand side.
+5. Additionally it's working nothing you can use the **touch** command to add new files to your repository. Some examples include:
+      * *touch index.html*
+      * *touch main.css*
