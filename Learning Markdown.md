@@ -17,7 +17,9 @@
 
 ###### And all the way down to the H6 tag, which is the smallest!
 
-## We can also create undordered liste! 
+#### In order to do this, just use the appropriate amount of hastags follow by a space and what you want it to say!
+
+## We can also create undordered lists! 
 
 * Apples
   * Granny Smith 
