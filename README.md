@@ -1,3 +1,7 @@
+layout: page
+title: "Growth Mindset"
+permalink: https://danielk13.github.io/reading-notes/
+
 # reading-notes
 
 #### Hi everyone! My name is Daniel, I am currently working as a Workforce Analyst with Shipt. I graduated with an associates degree in Computer Science in 2019 and I am very excited to be working through the Software Development bootcamp with **Pivot Tech**!
