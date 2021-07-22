@@ -33,3 +33,5 @@
 ### Want to add a funny gif to start the week off for everyone? No problem!
 
 ![Alt Text](https://media.giphy.com/media/3o6fJbwYFe3SmVVQ4M/giphy.gif)
+
+```Code example: ![Alt Text](https://media.giphy.com/media/3o6fJbwYFe3SmVVQ4M/giphy.gif)```
