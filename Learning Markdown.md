@@ -1,6 +1,8 @@
 ## What is Markdown?
 #### Markdown is a way to style text on the web. You can control the way the document looks; formatting words in **Bold** or *Italics*, adding images or even lists!
 
+## Ordered List
+
 1. **List item 1**
 2. *list item 2*
 3. ***List item 3***
@@ -27,3 +29,7 @@
   * Ripe, no bruises 
 * Orange juice 
   * No pulp  
+
+### Want to add a funny gif to start the week off for everyone? No problem!
+
+! http://gph.is/2jaWOkH
