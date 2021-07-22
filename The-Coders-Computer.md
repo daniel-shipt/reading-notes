@@ -11,7 +11,7 @@
 1. It's a good idea to verify your information before you start the process, you can do that by using these commands in the terminal.
       * git config --global user.name
       * git config --global user.email
-            * **These will return your user name and email verifing your information**
+               * **These will return your user name and email verifing your information**
 2. Next step is to use the git clone command to clone your repository to your local directory.
       * That can be done by doing **git clone** *insert https link here*
 3. You'll then want to initialize the clone by using the **git init** command, and then follow that with a **git status** to confirm it's been linked to the local directory.
