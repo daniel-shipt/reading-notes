@@ -32,4 +32,4 @@
 
 ### Want to add a funny gif to start the week off for everyone? No problem!
 
-! http://gph.is/2jaWOkH
+![Alt Text](https://media.giphy.com/media/3o6fJbwYFe3SmVVQ4M/giphy.gif)
