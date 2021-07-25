@@ -1,1 +1,10 @@
 theme: jekyll-theme-architect
+
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - The Coders Computer.md
+  - Learning Markdown.md
+  - Revisions and the Cloud.md
+
