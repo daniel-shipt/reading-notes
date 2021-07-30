@@ -10,6 +10,8 @@
 3. Constantly focus on how you can improve yourself.
       - Health and Wellness, adapt good habits, find like minded individuals to share and grow with.
 
+## Table of Contents
+
 [Learning Markdown](https://danielk13.github.io/reading-notes/learning-markdown.md)
 
 [Revisions and the Cloud](https://danielk13.github.io/reading-notes/revisions-and-the-cloud.md)
