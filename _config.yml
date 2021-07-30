@@ -1,16 +1,3 @@
 theme: jekyll-theme-architect
 title: Daniel E
 description: Let us learn together!
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - The Coders Computer.md
-  - Learning Markdown.md
-  - Revisions and the Cloud.md
-  
-
