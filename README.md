@@ -10,9 +10,9 @@
 3. Constantly focus on how you can improve yourself.
       - Health and Wellness, adapt good habits, find like minded individuals to share and grow with.
 
-[Learning Markdown](root/Learning Markdown.md)
+[Learning Markdown](https://danielk13.github.io/reading-notes/Learning Markdown.md)
 
-[Revisions and the Cloud](root/Revisions and the Cloud.md)
+[Revisions and the Cloud](https://danielk13.github.io/reading-notes/Revisions and the Cloud.md)
 
-[The Coders Computer](root/The Coders Computer.md)
+[The Coders Computer](https://danielk13.github.io/reading-notes/The Coders Computer.md)
 
