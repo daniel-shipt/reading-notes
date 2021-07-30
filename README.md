@@ -12,9 +12,9 @@
 
 ## Table of Contents
 
-[Learning Markdown](https://danielk13.github.io/reading-notes/learning-markdown.md)
+[Learning Markdown](https://danielk13.github.io/reading-notes/learning-markdown)
 
-[Revisions and the Cloud](https://danielk13.github.io/reading-notes/revisions-and-the-cloud.md)
+[Revisions and the Cloud](https://danielk13.github.io/reading-notes/revisions-and-the-cloud)
 
-[The Coders Computer](https://danielk13.github.io/reading-notes/the-coders-computer.md)
+[The Coders Computer](https://danielk13.github.io/reading-notes/the-coders-computer)
 
