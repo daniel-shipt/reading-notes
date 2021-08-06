@@ -21,3 +21,9 @@
 [Structure Webpages with HTML](https://danielk13.github.io/reading-notes/using-html)
 
 [Designing Webpages with CSS](https://danielk13.github.io/reading-notes/using-css)
+
+[Dynamic Webpages with Javascript](https://danielk13.github.io/reading-notes/dynamic-webpages-with-javascript)
+
+[Programming with Javascript](https://danielk13.github.io/reading-notes/programming-with-javascript)
+
+[Operators and Loops](https://danielk13.github.io/reading-notes/operators-and-loops)
